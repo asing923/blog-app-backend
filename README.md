@@ -51,7 +51,7 @@ Welcome to the backend repository of the Blog App developed using Spring Boot! T
 - Run the application: `./mvnw spring-boot:run`
 
 ### API Documentation:
-- Access the Swagger API documentation: http://localhost:8080/swagger-ui/index.html
+- Access the Swagger API documentation: http://localhost:3306/swagger-ui/index.html
 
 ### Testing:
 - Utilize Postman or your preferred API testing tool to test various endpoints.
